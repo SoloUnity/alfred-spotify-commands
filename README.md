@@ -7,7 +7,8 @@ Spotify Commands
 Locally run Spotify media controls through global commands. Avoid the need to rely on external servers! Plus discord bot inspired keywords in case you forget your commands.
 
 <h1 align="center">
-<img src="https://user-images.githubusercontent.com/77747704/143670438-02bbe2c9-3778-4a44-90a8-effda2ce47c9.gif" width="500">
+  
+<img src="https://user-images.githubusercontent.com/77747704/143670827-341595fb-ea0f-4ad3-a02a-67aaecffeefa.gif" width="500">
 <img src="https://cdn.discordapp.com/attachments/532748039698251776/913992801283375104/unknown.png">
 <h1>
 
