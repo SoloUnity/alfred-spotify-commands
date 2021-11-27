@@ -12,6 +12,6 @@ Alfred powerpack is of course required.
 The workflow simply uses applescript to interface with Spotify, bypassing the need to use the Spotify API. Works without internet!  
 
 # Credits
-[Icon Logo](https://twitter.com/FelixMeens)  
-@FelixMeens
+Workflow Icon: [@FelixMeens](https://twitter.com/FelixMeens)  
+
 
