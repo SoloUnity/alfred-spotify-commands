@@ -9,8 +9,7 @@ Alfred powerpack is of course required.
 
 # FAQ
 ## 1.How does this work?
-
- -The workflow simply uses applescript to interface with Spotify, bypassing the need to use the Spotify API. Works without internet!  
+The workflow simply uses applescript to interface with Spotify, bypassing the need to use the Spotify API. Works without internet!  
 
 # Credits
 [Icon Logo](https://twitter.com/FelixMeens)  
