@@ -1,6 +1,6 @@
-<h1 align="center">
+<h3>
 <img src="https://media.macosicons.com/parse/files/macOSicons/5c3276837ae2b75b1d7a8a3cef29e5ca_low_res_Spotify.png">
-</h1>
+</h3>
 Locally run Spotify Media controls, no need to interface with some random server!
 
 # How to run/install it?
