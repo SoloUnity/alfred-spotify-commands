@@ -4,7 +4,7 @@
 <h1>
 Spotify Commands
 </h1>
-Locally run Spotify media controls. Avoid the need to rely on external servers!
+Locally run Spotify media controls through global commands. Avoid the need to rely on external servers!
 
 <img src="https://cdn.discordapp.com/attachments/532748039698251776/913992801283375104/unknown.png">
 
