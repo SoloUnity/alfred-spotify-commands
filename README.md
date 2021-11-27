@@ -4,7 +4,7 @@
 <h1>
 Spotify Global Commands
 </h1>
-Instantly locally run Spotify media controls. Avoid the need to interface with some random server!
+Instantly locally run Spotify media controls. Avoid the need to rely on some random server!
 
 # How to run/install it?
 Check releases tab, download the workflow and double click it to add it to alfred.
