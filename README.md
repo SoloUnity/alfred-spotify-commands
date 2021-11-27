@@ -6,6 +6,7 @@ Spotify Commands
 </h1>
 Locally run Spotify media controls through global commands. Avoid the need to rely on external servers!
 
+<img src="https://media.discordapp.net/attachments/761762042121814017/914035096615522304/ezgif-1-4e4da7c3d908.gif">
 <img src="https://cdn.discordapp.com/attachments/532748039698251776/913992801283375104/unknown.png">
 
 # How to run/install it?
