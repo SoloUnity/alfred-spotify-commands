@@ -2,9 +2,9 @@
 <img src="https://media.macosicons.com/parse/files/macOSicons/5c3276837ae2b75b1d7a8a3cef29e5ca_low_res_Spotify.png" width="100">
 </h1>
 <h1>
-Spotify Global Commands
+Spotify Commands
 </h1>
-Instantly locally run Spotify media controls. Avoid the need to rely on some random server!
+Locally run Spotify media controls. Avoid the need to rely on external servers!
 
 <img src="https://cdn.discordapp.com/attachments/532748039698251776/913992801283375104/unknown.png">
 
