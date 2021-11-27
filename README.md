@@ -6,6 +6,8 @@ Spotify Global Commands
 </h1>
 Instantly locally run Spotify media controls. Avoid the need to rely on some random server!
 
+<img src="https://cdn.discordapp.com/attachments/532748039698251776/913992801283375104/unknown.png">
+
 # How to run/install it?
 Check releases tab, download the workflow and double click it to add it to alfred.
 Alfred powerpack is of course required.
