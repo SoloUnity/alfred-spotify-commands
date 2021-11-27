@@ -10,8 +10,7 @@ Instantly locally run Spotify media controls. Avoid the need to rely on some ran
 Check releases tab, download the workflow and double click it to add it to alfred.
 Alfred powerpack is of course required.
 
-# FAQ
-## 1.How does this work?
+# How does this work?
 The workflow simply uses applescript to interface with Spotify, bypassing the need to use the Spotify API. Works without internet!  
 
 # Credits
