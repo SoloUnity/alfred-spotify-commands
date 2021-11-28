@@ -21,5 +21,6 @@ The workflow uses applescript to interface with Spotify, bypassing the need to u
 
 # Credits
 Workflow Icon: [@FelixMeens](https://twitter.com/FelixMeens)  
+Displaying current track: [WhoDis](https://github.com/blackspike/spotify-whodis-alfred-workflow)
 
 
