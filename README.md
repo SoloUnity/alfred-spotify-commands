@@ -16,7 +16,7 @@ Check releases tab, download the workflow and double click it to add it to alfre
 Alfred powerpack is of course required.
 
 # How does this work?
-The workflow uses applescript to interface with Spotify, bypassing the need to use the Spotify API. Works without internet!  
+The workflow uses applescript to interface with Spotify, bypassing the need to use the Spotify API and talk to Spotify servers. This means that it works offline and without delay!
 
 # Credits
 Workflow Icon: [@FelixMeens](https://twitter.com/FelixMeens)  
