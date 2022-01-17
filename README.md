@@ -44,6 +44,6 @@ The workflow uses applescript and python to interface with Spotify and macOS, by
 # Credits
 Workflow Icon: [@FelixMeens](https://twitter.com/FelixMeens)  
 Displaying Current Track: [WhoDis Workflow](https://github.com/blackspike/spotify-whodis-alfred-workflow)
-Emulated Media Keys: [@fredrikw](https://stackoverflow.com/questions/11045814/emulate-media-key-press-on-mac)
+  Emulated Media Keys: [@fredrikw](https://stackoverflow.com/questions/11045814/emulate-media-key-press-on-mac)
 
 
