@@ -18,12 +18,29 @@ Alfred powerpack is of course required.
 # How does this work?
 The workflow uses applescript and python to interface with Spotify and macOS, bypassing the need to use the Spotify API and talk to Spotify servers. This means that it works offline and without delay!
 
-# Guide
+# Guide/Features
 
-| Actions       | Keywords |
-| ------------- | ------------- |
-|  Play/Pause  | !p |
-| Volume up | !sup  |
+| Spotify Actions     | Keywords      |
+| -------------       | ------------- |
+| Play/Pause          | !p            |
+| Next Song           | !s            |
+| Previous Song       | !b            |
+| Volume Up           | !sup          |
+| Volume Down         | !sdown        |
+| Toggle Shuffle      | !shuffle      |
+| Toggle Loop         | !loop         |
+| Quickplay Playlist  | !q            |
+| Song Information    | !song         |
+| Copy Song URL       | !copy         |
+
+| System Actions      | Keywords      |
+| -------------       | ------------- |
+| Play/Pause          | !p            |
+| Volume Up           | !volup        |
+| Volume Down         | !voldown      |
+| Quit Spotify        | !quit         |
+| Toggle Spotify Focus| !show         |
+
 
 # Credits
 Workflow Icon: [@FelixMeens](https://twitter.com/FelixMeens)  
