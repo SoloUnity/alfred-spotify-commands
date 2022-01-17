@@ -18,7 +18,7 @@ Alfred powerpack is of course required.
 # How does this work?
 The workflow uses applescript and python to interface with Spotify and macOS, bypassing the need to use the Spotify API and talk to Spotify servers. This means that it works offline and without delay!
 
-# Guide/Features
+# Keywords
 
 | Spotify Actions     | Keywords      |
 | -------------       | ------------- |
