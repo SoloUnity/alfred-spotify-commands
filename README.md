@@ -20,8 +20,6 @@ The workflow uses applescript and python to interface with Spotify and macOS, by
 
 # Guide/Features
 
-<div>
-
 | Spotify Actions     | Keywords      |
 | -------------       | ------------- |
 | Play/Pause          | !p            |
@@ -43,9 +41,9 @@ The workflow uses applescript and python to interface with Spotify and macOS, by
 | Quit Spotify        | !quit         |
 | Toggle Spotify Focus| !show         |
 
-</div>
 # Credits
 Workflow Icon: [@FelixMeens](https://twitter.com/FelixMeens)  
-Displaying current track: [WhoDis Workflow](https://github.com/blackspike/spotify-whodis-alfred-workflow)
+Displaying Current Track: [WhoDis Workflow](https://github.com/blackspike/spotify-whodis-alfred-workflow)
+Emulated Media Keys: [@fredrickw](https://stackoverflow.com/questions/11045814/emulate-media-key-press-on-mac)
 
 
