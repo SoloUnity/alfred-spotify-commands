@@ -16,14 +16,14 @@ Locally run Spotify media controls through global keyboard commands or keywords.
 - Alfred 
 - Alfred PowerPack 💰
 
-# How to run/install it?
+# How do I install it?
 1) Check [releases](https://github.com/SoloUnity/alfred-Spotify-Commands/releases)
 2) Download the latest version of the workflow
 3) Double click the downloaded workflow file and import it into alfred
 4) Customize by setting up your own commands
 
 # How does this work?
-The workflow uses applescript and python to interface with Spotify and macOS, bypassing the need to use the Spotify API and talk to Spotify servers. This means that it works offline and without delay!
+The workflow uses both python and applescript to interface with Spotify and macOS, bypassing the need to use the Spotify API and talk to Spotify servers. This means that it works offline and without delay!
 
 # Keywords
 
@@ -51,7 +51,7 @@ The workflow uses applescript and python to interface with Spotify and macOS, by
 # Acknowledgements
 Workflow Icon: [@FelixMeens](https://twitter.com/FelixMeens) 
 
-Displaying Current Track (v0.0.7 and older): [WhoDis Workflow](https://github.com/blackspike/spotify-whodis-alfred-workflow)
+Displaying Current Track Information (v0.0.7 and older): [WhoDis Workflow](https://github.com/blackspike/spotify-whodis-alfred-workflow)
 
 Emulated Media Keys: [@fredrikw](https://stackoverflow.com/questions/11045814/emulate-media-key-press-on-mac)
 
