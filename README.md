@@ -11,9 +11,13 @@ Locally run Spotify media controls through global keyboard commands or keywords.
   <img src="https://user-images.githubusercontent.com/77747704/143671013-955601f8-7c7e-4fd9-9e8a-baa4faad75dc.gif" width="500">
 </div>
 
+# What are the requirements
+- MacOS
+- Alfred 
+- Alfred PowerPack 💰
+
 # How to run/install it?
 Check releases tab, download the workflow and double click it to add it to alfred.
-Alfred powerpack is of course required.
 
 # How does this work?
 The workflow uses applescript and python to interface with Spotify and macOS, bypassing the need to use the Spotify API and talk to Spotify servers. This means that it works offline and without delay!
