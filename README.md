@@ -14,7 +14,7 @@ Locally run Spotify media controls through global keyboard commands or keywords.
 # What are the requirements?
 - MacOS
 - Alfred 
-- Alfred PowerPack 💰
+- Alfred PowerPack 💰(Paid)
 
 # How do I install it?
 1) Check [releases](https://github.com/SoloUnity/alfred-Spotify-Commands/releases)
