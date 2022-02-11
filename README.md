@@ -23,7 +23,7 @@ Locally run Spotify media controls through global keyboard commands or keywords.
 4) Customize by setting up your own commands
 
 # How does this work?
-The workflow uses both python and applescript to interface with Spotify and macOS, bypassing the need to use the Spotify API and talk to Spotify servers. This means that it works offline and without delay!
+The workflow uses both python and Spotify's applescriptAPI to interface with Spotify and macOS, bypassing the need to use the Spotify API and talk to Spotify servers. This means that it works offline and without delay!
 
 # Keywords
 
