@@ -49,6 +49,8 @@ The workflow uses both python and Spotify's applescriptAPI to interface with Spo
 | Toggle Spotify Focus| !show         |
 
 # Acknowledgements
+Song searching:  [Spotifious](https://github.com/citelao/Spotify-for-Alfred)
+
 Workflow Icon: [@FelixMeens](https://twitter.com/FelixMeens) 
 
 Displaying Current Track Information (v0.0.7 and older): [WhoDis Workflow](https://github.com/blackspike/spotify-whodis-alfred-workflow)
